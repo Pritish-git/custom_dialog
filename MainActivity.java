@@ -1,12 +1,8 @@
 package com.technical.myapplication;
 
-
 import androidx.appcompat.app.AppCompatActivity;
 
-
 import android.app.Dialog;
-
-
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
